@@ -70,7 +70,9 @@
 		"tab.hoverForeground": "#d3cfe5",
 		"tab.hoverBackground": "#221f3b",
 		"tab.inactiveBackground": "#131324",
-		"terminal.background": "#161526",
+
+		"terminal.background": "#0e0e1a",
+		
 		"titleBar.activeBackground": "#161526",
 		"titleBar.activeForeground": "#f1e8ff",
 		"titleBar.inactiveBackground": "#161526",

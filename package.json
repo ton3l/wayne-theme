@@ -4,7 +4,7 @@
     "description": "A VS code dark theme based on Arkham Theme",
     "version": "1.13.0",
     "publisher": "lucasmsa",
-    "contributors": [ "ton3l" ],
+    "contributors": ["ton3l"],
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -25,5 +25,9 @@
         "type": "git",
         "url": "https://github.com/lucasmsa/arkham-theme.git"
     },
-    "homepage": "https://github.com/lucasmsa/arkham-theme/blob/master/README.md"
+    "homepage": "https://github.com/lucasmsa/arkham-theme/blob/master/README.md",
+    "dependencies": {
+        "vsce": "^2.15.0",
+        "yo": "^5.1.0"
+    }
 }
