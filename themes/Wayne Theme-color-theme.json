@@ -1,62 +1,81 @@
 {
-	"name": "Arkham Theme",
-	"type": "dark",
+	"name": "Wayne Theme",
 	"colors": {
-		"editor.background": "#161526",
-		"editor.foreground": "#DAD6DA",
-		"debugToolBar.background": "#171529f6",
-		"editorGroupHeader.tabsBackground": "#161526",
 		"activityBarBadge.background": "#007acc",
 		"activityBar.foreground": "#FFCFD4",
-		"activityBar.background": "#161526",
-		"activityBar.border": "#000",
+		"activityBar.background": "#1a182c",
+		"activityBar.border": "#1a182c",
+		
+		"button.hoverBackground": "#2A2849",
+		"button.background": "#4D4985",
+
+		"badge.background": "#4D4985",
+		
+		"debugToolBar.background": "#171529f6",
+
+		"dropdown.background": "#23253C",
+		
+		"editor.background": "#0e0e1a",
+		"editor.foreground": "#DAD6DA",
+		"editor.hoverHighlightBackground": "#211F39",
+		"editor.selectionHighlightBackground": "#38335e",
+		"editor.selectionBackground": "#6A6793",
+		"editor.lineHighlightBorder": "#291830c0",
+		"editor.wordHighlightBackground": "#4c496b",
+		"editor.findMatchBackground": "#534f79",
+		
+		"editorGroupHeader.tabsBackground": "#161526",
+		"editorLineNumber.foreground": "#8988A0",
+		"editorWidget.background": "#161526",
+		"editorSuggestWidget.background": "#161526",
+		"editorSuggestWidget.selectedBackground": "#1C1D30",
+		"editorHoverWidget.border": "#534f79",
+		"editorMarkerNavigation.background": "#161526",
+		
+		"gitDecoration.ignoredResourceForeground": "#69698f",
+
+		"input.placeholderForeground": "#b7b5d49c",
+		"input.background": "#23263C",
+		
+		"list.activeSelectionForeground": "#f2eeff",
+		"list.hoverBackground": "#282646",
+		"list.activeSelectionBackground": "#14131f",
+		"list.inactiveSelectionBackground": "#2E2F4E",
+		
+		"menu.background": "#161526",
+
+		"panel.border": "#6A6793",
+
+		"panelTitle.activeForeground": "#feeeff",
+
+		"statusBar.background": "#100f1b",
+		"statusBarItem.remoteBackground": "#281c32",
+
 		"sideBarTitle.foreground": "#fff",
+		
+		"sideBar.border": "#161526",
+		"sideBar.background": "#161526",
+		"sideBar.foreground": "#e7e3f5ef",
+
+		"sideBarSectionHeader.background": "#1B1B2F",
+		"sideBarSectionHeader.border": "#252749",
+		
+		"scrollbarSlider.background": "#5852708f",
+		"scrollbarSlider.activeBackground": "#d4ceeb93",
+		"scrollbarSlider.hoverBackground": "#6f688b93",
+
 		"tab.activeBorderTop": "#FF70B1",
 		"tab.border": "#151327",
 		"tab.inactiveForeground": "#ddd9ee8a",
 		"tab.hoverForeground": "#d3cfe5",
 		"tab.hoverBackground": "#221f3b",
-		"sideBar.border": "#12101F",
-		"sideBarSectionHeader.background": "#1B1B2F",
-		"scrollbarSlider.background": "#5852708f",
-		"scrollbarSlider.activeBackground": "#d4ceeb93",
-		"scrollbarSlider.hoverBackground": "#6f688b93",
-		"input.placeholderForeground": "#b7b5d49c",
-		"tab.inactiveBackground": "#1c1c30",
-		"sideBarSectionHeader.border": "#252749",
-		"gitDecoration.ignoredResourceForeground": "#69698f",
-		"sideBar.background": "#1B1B2F",
-		"sideBar.foreground": "#e7e3f5ef",
-		"list.activeSelectionForeground": "#f2eeff",
-		"dropdown.background": "#23253C",
-		"input.background": "#23263C",
-		"editor.hoverHighlightBackground": "#211F39",
-		"editor.selectionHighlightBackground": "#38335e",
-		"editor.selectionBackground": "#6A6793",
-		"editorLineNumber.foreground": "#8988A0",
-		"button.hoverBackground": "#2A2849",
-		"button.background": "#4D4985",
-		"list.hoverBackground": "#282646",
-		"list.activeSelectionBackground": "#161526",
-		"list.inactiveSelectionBackground": "#2E2F4E",
-		"editor.lineHighlightBorder": "#291830c0",
+		"tab.inactiveBackground": "#131324",
 		"terminal.background": "#161526",
-		"panel.border": "#6A6793",
-		"panelTitle.activeForeground": "#feeeff",
-		"menu.background": "#161526",
-		"editorWidget.background": "#161526",
-		"statusBar.background": "#100f1b",
-		"editorSuggestWidget.background": "#161526",
-		"editorSuggestWidget.selectedBackground": "#1C1D30",
 		"titleBar.activeBackground": "#161526",
 		"titleBar.activeForeground": "#f1e8ff",
 		"titleBar.inactiveBackground": "#161526",
 		"titleBar.inactiveForeground": "#f1e8ff",
-		"badge.background": "#4D4985",
-		"editor.wordHighlightBackground": "#4c496b",
-		"editor.findMatchBackground": "#534f79",
-		"editorHoverWidget.border": "#534f79",
-		"editorMarkerNavigation.background": "#161526",
+
 	},
 	"tokenColors": [
 		{
@@ -185,7 +204,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#2DE4A1"
+				"foreground": "#96d0ff"
 			}
 		},
 		{
