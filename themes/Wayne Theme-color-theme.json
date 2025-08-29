@@ -3,7 +3,7 @@
 	"colors": {
 		"activityBarBadge.background": "#007acc",
 		"activityBar.foreground": "#FFCFD4",
-		"activityBar.background": "#1a182c",
+		"activityBar.background": "#0e0e1a",
 		"activityBar.border": "#1a182c",
 		
 		"button.hoverBackground": "#2A2849",
@@ -54,10 +54,10 @@
 		"sideBarTitle.foreground": "#fff",
 		
 		"sideBar.border": "#161526",
-		"sideBar.background": "#161526",
+		"sideBar.background": "#0e0e1a",
 		"sideBar.foreground": "#e7e3f5ef",
 
-		"sideBarSectionHeader.background": "#1B1B2F",
+		"sideBarSectionHeader.background": "#161526",
 		"sideBarSectionHeader.border": "#252749",
 		
 		"scrollbarSlider.background": "#5852708f",
