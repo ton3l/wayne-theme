@@ -5,6 +5,11 @@
     "version": "1.13.1",
     "publisher": "lucasmsa",
     "contributors": ["ton3l"],
+    "scripts": {
+        "build": "mkdir dist ; bunx vsce package -o dist/",
+        "install": "code --install-extension ./dist/wayne-theme-<version>.vsix",
+        "update": "code --uninstall-extension lucasmsa.wayne-theme ; bunx vsce package -o dist/ ; code --install-extension ./dist/wayne-theme-<version>.vsix"
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
