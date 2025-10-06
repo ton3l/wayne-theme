@@ -2,7 +2,9 @@
 
 ### Instalação
 ````bash
-    bunx vsce package -o dist/ 
+    bun i
+
+    mkdir dist;bunx vsce package -o dist/ 
 
     code --install-extension .\dist\wayne-theme-1.13.1.vsix
 ````

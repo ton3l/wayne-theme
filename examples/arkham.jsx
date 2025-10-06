@@ -13,3 +13,5 @@ const Poison_Ivy = () => {
         </div>
     )       
 }
+
+export default Poison_Ivy;
