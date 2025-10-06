@@ -1,15 +1,15 @@
 # Wayne Theme 🕴🏻
 #### Theme with inspirations on Transylvania, Mayukai Alucard and Arkham Theme 🌑
 
-![Theme in action](screenshots/py-example.png)
+![Theme in action](https://raw.githubusercontent.com/ton3l/wayne-theme/wayne-theme/screenshots/py-example.png)
 
 ---
 
-![Theme in action](screenshots/jsx-example.png)
+![Theme in action](https://raw.githubusercontent.com/ton3l/wayne-theme/refs/heads/wayne-theme/screenshots/jsx-example.png)
 
 ---
 
-![Theme in action](screenshots/ts-example.png)
+![Theme in action](https://raw.githubusercontent.com/ton3l/wayne-theme/refs/heads/wayne-theme/screenshots/ts-example.png)
 
 
 ## Installing 💻
