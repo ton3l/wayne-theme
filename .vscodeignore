@@ -5,3 +5,8 @@ vsc-extension-quickstart.md
 node_modules/**
 dist/**
 start-theme.md
+bun.lock
+vsc-extension-quickstart.md
+start-theme.md
+.gitignore
+screenshots/**

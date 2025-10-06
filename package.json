@@ -2,7 +2,7 @@
     "name": "wayne-theme",
     "displayName": "wayne-theme",
     "description": "A VS code dark theme based on Arkham Theme",
-    "version": "1.13.1",
+    "version": "1.13.2",
     "publisher": "ton3l",
     "contributors": ["lucasmsa"],
     "scripts": {

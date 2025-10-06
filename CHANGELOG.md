@@ -50,3 +50,7 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - VSCE Timeout error
 ## [1.13.0] - 2021-04-27
 - Adjust elixir screenshot
+## [1.13.1] - 2021-04-27
+- Wayne theme creation
+## [1.13.2] - 2021-04-27
+- Wayne theme publishing

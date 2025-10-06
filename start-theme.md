@@ -12,7 +12,7 @@ Após isso o tema aparecerá listado nos temas do vscode
 
 ### Atualização
 ````bash
-    code --uninstall-extension lucasmsa.wayne-theme
+    code --uninstall-extension ton3l.wayne-theme
 
     bunx vsce package -o dist/ 
 
